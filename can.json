@@ -1,3 +1,4 @@
 {
-  "security": true
+  "SECURITY": true,
+  "FEATURE_X": true
 }
